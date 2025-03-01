@@ -1013,12 +1013,6 @@
             name: "New JS file",
             value: "js"
           }, {
-            name: " New Folder",
-            value: "folder"
-          }, {
-            name: " Upload Asset",
-            value: "asset"
-          }, {
             name: " Rename ",
             value: "rename"
           }, {
@@ -2295,10 +2289,10 @@
                   }
                 }), (0, i.jsx)("script", {
                   async: !0,
-                  src: "https://cmp.uniconsent.com/v2/stub.min.js"
+                  src: ""
                 }), (0, i.jsx)("script", {
                   async: !0,
-                  src: "https://cmp.uniconsent.com/v2/a8d3ae4937/cmp.js"
+                  src: ""
                 }), (0, i.jsx)("script", {
                   async: !0,
                   id: "google-analytics4-2",
